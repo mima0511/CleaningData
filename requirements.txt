@@ -2,5 +2,5 @@ certifi==2019.11.28
 pipenv==2018.11.26
 virtualenv==16.7.8
 virtualenv-clone==0.5.3
-pandas==0.25.1
-numpy==1.17.2
+pandas==0.24.2
+numpy==1.16.4
